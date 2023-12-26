@@ -77,8 +77,14 @@ button:disabled {
 .flatpickr-calendar {
   background: #f5f5f5;
 }
-.izi-error-icon {
-  background-image: url(/src/img/error.svg);
+.icon-true {
+  background-image: url('../img/bi_check2-circle.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.icon-error {
+  background-image: url('../img/bi_x-octagon.svg');
   background-repeat: no-repeat;
   background-position: center;
 }
