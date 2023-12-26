@@ -5,9 +5,10 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./1-timer.css');
+@import 'izitoast/dist/css/iziToast.min.css';
+@import 'flatpickr/dist/flatpickr.min.css';
 @import url('./2-snackbar.css');
-
+@import url('./1-timer.css');
 :root {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
